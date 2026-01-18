@@ -4,7 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { generateFlow } from './geminiService';
 import { FlowiseFlow, BlueprintPlan } from './types';
-import { FlowVisualizer } from './components/FlowVisualizer';
+import { FlowVisualizer } from './FlowVisualizer';
 import { 
   PaperAirplaneIcon, 
   Squares2X2Icon,
