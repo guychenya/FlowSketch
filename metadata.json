@@ -1,0 +1,7 @@
+{
+  "name": "FlowSketch",
+  "description": "Convert natural language descriptions into Flowise-compatible JSON flows using Gemini. Design complex AI workflows simply by writing text.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
